@@ -1,0 +1,13 @@
+@import "variables";
+@import "mixins";
+
+/* 
+ * Default
+ * 1.0 - Sidebar left
+ */
+
+/* 1.0 - Sidebar left */
+.sidebar-left {
+	background: $yellow;
+	padding: 10px;
+}
